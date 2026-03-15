@@ -1,0 +1,10 @@
+{
+  "id": "Sts2Act4Mod",
+  "name": "幻想乡",
+  "author": "leddele",
+  "version": "1.0.0",
+  "entry_point": "Sts2Act4Mod.MainFile",
+  "dll_name": "Sts2Act4Mod.dll",
+  "pck_name": "Sts2Act4Mod",
+  "dependencies": ["BaseLib"]
+}
